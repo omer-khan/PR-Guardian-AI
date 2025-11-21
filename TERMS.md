@@ -1,6 +1,6 @@
 # Terms of Service — PR Guardian AI
 
-_Last updated: 2025-01-01_
+_Last updated: 2025-11-21_
 
 These Terms govern your use of the **PR Guardian AI** GitHub App.  
 By installing or using this app, you agree to the following:
