@@ -40,7 +40,7 @@ This tool helps developers deliver high-quality code faster, reduces review work
 ---
 
 ## How It Works (Full Explanation)
-
+ 
 ### **1. A Pull Request is created or updated**
 
 GitHub triggers a webhook event:
